@@ -66,3 +66,14 @@ footer {
     background: #333;
     color: #fff;
 }
+
+/* プライバシーポリシーリンク */
+footer .privacy-link, .back-link {
+    color: #0078D7;
+    text-decoration: none;
+    font-size: 0.9em;
+}
+
+footer .privacy-link:hover, .back-link:hover {
+    text-decoration: underline;
+}

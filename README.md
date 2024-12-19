@@ -20,3 +20,6 @@
 1. このリポジトリをGitHubにプッシュします。
 2. GitHub Pagesを有効化して公開します。
 
+## Reference  
+1. サイコロイラスト-白: https://illustimage.com/?id=21689
+2. サイコロイラスト-黒: https://illustimage.com/?id=21690
